@@ -1,5 +1,5 @@
 # Calculator 
-React and CSS
+React and CSS (Grid layout)
 
 #To install dependencies
 npm i --save
